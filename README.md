@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mijnmeuk/MijnScrumMeuk/_apis/build/status/magco.mslearn-tailspin-spacegame-web?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/mijnmeuk/MijnScrumMeuk/_build/latest?definitionId=4&branchName=refs%2Fpull%2F1%2Fmerge)
 
 # Contributing
 
